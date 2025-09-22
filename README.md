@@ -79,7 +79,7 @@
     <p>Output of Different model:</p>
     <div class="image-grid">
       <img src="Project_Essentials/Final_Output.png" alt="Outout">
-      <img src="example2.png" alt="SRCNN Output">
+      <img src="Projeect_Essentials/SRCNN_VAl.png" alt="SRCNN Output">
       <img src="example3.png" alt="DnCNN Output">
       <img src="example4.png" alt="Ground Truth">
     </div>
