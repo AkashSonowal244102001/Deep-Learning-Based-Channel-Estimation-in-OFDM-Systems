@@ -29,7 +29,7 @@
   </div>
    <h2>🚀 Block Diagram</h2>
     <ul>
-     <img src="Project_Essentials/Block_Diagram.png" alt="SRCNN Output">
+     <img src="Project_Essentials/Block_Diagram (2).png" alt="SRCNN Output">
 
   <div class="section">
     <h2>📂 Project Structure</h2>
