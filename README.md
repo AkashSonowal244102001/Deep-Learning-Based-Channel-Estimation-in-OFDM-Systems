@@ -78,7 +78,7 @@
     <h2>📈 Sample Output Visuals</h2>
     <p>Replace these with actual outputs from your model:</p>
     <div class="image-grid">
-      <img src="example1.png" alt="LS Interpolation">
+      <img src="Project_Essentials/Final_Output.png" alt="Outout">
       <img src="example2.png" alt="SRCNN Output">
       <img src="example3.png" alt="DnCNN Output">
       <img src="example4.png" alt="Ground Truth">
