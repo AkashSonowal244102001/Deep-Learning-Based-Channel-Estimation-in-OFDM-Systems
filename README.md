@@ -109,25 +109,3 @@
     </table>
   </div>
 
-  <div class="section">
-    <h2>📜 Citation</h2>
-    <p>If you find this project helpful, please consider citing or referencing this repository in your research or work.</p>
-  </div>
-
-  <div class="section">
-    <h2>🧑‍💻 Author</h2>
-    <p>
-      <strong>Your Name</strong><br>
-      📧 your.email@example.com<br>
-      🌐 <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a> |
-      <a href="https://github.com/your-username" target="_blank">GitHub</a>
-    </p>
-  </div>
-
-  <div class="section">
-    <h2>🌟 Show Your Support</h2>
-    <p>If you like this project, give it a ⭐ on GitHub and consider following for more signal processing and deep learning projects.</p>
-  </div>
-
-</body>
-</html>
