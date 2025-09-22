@@ -85,7 +85,7 @@
       <img src="Project_Essentials/SRCNN_VAl.png" alt="SRCNN Output">
       <img src="Project_Essentials/DNCNN_Val.png" alt="DnCNN Output">
       <img src="Project_Essentials/Validation_Loss_Curve.png" alt="Ground Truth">
-  
+     <img src="Project_Essentials/PNSR_Comparison.png" alt="Ground Truth">
 
   <div class="section">
     <h2>🏁 Results</h2>
