@@ -79,12 +79,13 @@
     <p>Output of Different model:</p>
     <div class="image-grid">
       <img src="Project_Essentials/Final_Output.png" alt="Outout">
-      <img src="Projeect_Essentials/SRCNN_VAl.png" alt="SRCNN Output">
-      <img src="example3.png" alt="DnCNN Output">
-      <img src="example4.png" alt="Ground Truth">
-    </div>
+        </div>
     <p><strong>Left to Right:</strong> LS → SRCNN → DnCNN → Ground Truth</p>
   </div>
+      <img src="Project_Essentials/SRCNN_VAl.png" alt="SRCNN Output">
+      <img src="example3.png" alt="DnCNN Output">
+      <img src="example4.png" alt="Ground Truth">
+  
 
   <div class="section">
     <h2>🏁 Results</h2>
