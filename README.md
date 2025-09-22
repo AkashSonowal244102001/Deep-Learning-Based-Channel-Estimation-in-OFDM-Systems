@@ -99,11 +99,11 @@
       <tbody>
         <tr>
           <td>SRCNN</td>
-          <td>XX.XX</td>
+          <td>52.87</td>
         </tr>
         <tr>
           <td>DnCNN</td>
-          <td>XX.XX</td>
+          <td>40.01</td>
         </tr>
       </tbody>
     </table>
