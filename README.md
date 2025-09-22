@@ -83,7 +83,7 @@
     <p><strong>Left to Right:</strong> LS → SRCNN → DnCNN → Ground Truth</p>
   </div>
       <img src="Project_Essentials/SRCNN_VAl.png" alt="SRCNN Output">
-      <img src="Project_Essentials/DNCNN_VAl.png" alt="DnCNN Output">
+      <img src="Project_Essentials/DNCNN_Val.png" alt="DnCNN Output">
       <img src="example4.png" alt="Ground Truth">
   
 
