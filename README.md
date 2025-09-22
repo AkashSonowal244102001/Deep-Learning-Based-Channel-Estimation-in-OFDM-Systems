@@ -4,78 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Deep Learning-based Channel Estimation for OFDM</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 40px auto;
-      max-width: 900px;
-      padding: 0 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
 
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-
-    pre {
-      background-color: #2d2d2d;
-      color: #f8f8f2;
-      padding: 20px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-
-    .section {
-      margin-bottom: 40px;
-    }
-
-    .image-grid {
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    .image-grid img {
-      width: 100%;
-      max-width: 200px;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 10px;
-    }
-
-    table, th, td {
-      border: 1px solid #aaa;
-    }
-
-    th, td {
-      padding: 8px 12px;
-      text-align: center;
-    }
-
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-  </style>
 </head>
 <body>
 
