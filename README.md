@@ -76,7 +76,7 @@
 
   <div class="section">
     <h2>📈 Sample Output Visuals</h2>
-    <p>Replace these with actual outputs from your model:</p>
+    <p>Output of Different model:</p>
     <div class="image-grid">
       <img src="Project_Essentials/Final_Output.png" alt="Outout">
       <img src="example2.png" alt="SRCNN Output">
